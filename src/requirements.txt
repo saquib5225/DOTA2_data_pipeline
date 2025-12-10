@@ -1,0 +1,7 @@
+pandas
+requests
+matplotlib
+flask
+fastapi
+uvicorn
+streamlit
